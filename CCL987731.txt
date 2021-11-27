@@ -1,0 +1,23 @@
+Account 987731 opened.	Nov 26, 2011 5:11:51 PM
+Charge of $1.00 for 	Nov 26, 2011 5:12:00 PM
+Rate of 1% applied.	Nov 26, 2011 5:12:09 PM
+Rate of 0% applied.	Nov 26, 2011 5:12:18 PM
+Illegal set rate attempt.	Nov 26, 2011 5:12:23 PM
+Payment of $1,000.00 applied.	Nov 26, 2011 5:12:53 PM
+Illegal set rate attempt.	Nov 26, 2011 5:12:57 PM
+Rate of 0% applied.	Nov 26, 2011 5:13:05 PM
+Rate of 0% applied.	Nov 26, 2011 5:13:16 PM
+Rate of 0% applied.	Nov 26, 2011 5:13:26 PM
+Illegal set rate attempt.	Nov 26, 2011 5:14:22 PM
+Rate of 100% applied.	Nov 26, 2011 5:14:26 PM
+Rate of 1% applied.	Nov 26, 2011 5:14:31 PM
+Payment of $1,000.00 applied.	Nov 26, 2011 5:14:41 PM
+Payment of $0.01 applied.	Nov 26, 2011 5:14:48 PM
+Charge of $400.00 for 	Nov 26, 2011 5:14:53 PM
+Rate of 1% applied.	Nov 26, 2011 5:15:00 PM
+Rate of 0% applied.	Nov 26, 2011 5:17:11 PM
+Rate of 0% applied.	Nov 26, 2011 5:17:15 PM
+Illegal payment attempt.	Nov 26, 2011 5:17:29 PM
+Payment of $1.00 applied.	Nov 26, 2011 5:17:33 PM
+Payment of $500.00 applied.	Nov 26, 2011 5:18:07 PM
+Charge of $1.00 for 	Nov 26, 2011 5:18:15 PM

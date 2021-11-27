@@ -1,0 +1,22 @@
+Account 921104 opened.	Nov 22, 2011 7:27:28 PM
+Charge of 52.75 for gas	Nov 22, 2011 7:27:36 PM
+Charge of 15.0 for movie	Nov 22, 2011 7:27:54 PM
+Charge of 40.0 for pre TD sales	Nov 22, 2011 7:30:15 PM
+Payment of 50.0	Nov 22, 2011 7:41:00 PM
+Payment of 10.0	Nov 22, 2011 7:41:09 PM
+Payment of 5.0	Nov 22, 2011 7:47:19 PM
+Payment of 1.0	Nov 22, 2011 7:49:48 PM
+Payment of $1.00	Nov 22, 2011 7:54:27 PM
+Payment of $3.00applied.	Nov 22, 2011 8:00:38 PM
+Illegal payment attempt.	Nov 22, 2011 8:02:06 PM
+Payment of $40.00 applied.	Nov 22, 2011 8:02:11 PM
+Charge of $1,700.00 for dining room set declined - over limit.	Nov 26, 2011 4:17:24 PM
+Charge of $500.00 for speakers	Nov 26, 2011 4:18:03 PM
+Rate of 1,500% applied.	Nov 26, 2011 4:18:12 PM
+Rate of 1,500% applied.	Nov 26, 2011 4:30:08 PM
+Illegal set rate attempt.	Nov 26, 2011 4:30:15 PM
+Rate of 100% applied.	Nov 26, 2011 4:30:20 PM
+Rate of 100% applied.	Nov 26, 2011 4:30:24 PM
+Rate of 100% applied.	Nov 26, 2011 4:30:28 PM
+Payment of $200.00 applied.	Nov 26, 2011 4:34:12 PM
+Payment of $100.00 applied.	Nov 26, 2011 4:34:24 PM

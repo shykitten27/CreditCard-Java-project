@@ -1,0 +1,7 @@
+Account 597934 opened.	Dec 12, 2011 2:58:20 PM
+Charge of $25.00 for food	Dec 12, 2011 2:58:29 PM
+Charge of $1,225.00 for trip declined - over limit.	Dec 12, 2011 2:58:39 PM
+Illegal charge attempt.	Dec 12, 2011 2:58:52 PM
+Charge of $400.00 for party supplies	Dec 12, 2011 3:04:31 PM
+Credit Increase $4,000.00 applied.	Dec 12, 2011 3:05:36 PM
+Payment of $50.00 applied.	Dec 12, 2011 3:13:22 PM

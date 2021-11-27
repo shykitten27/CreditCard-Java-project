@@ -1,0 +1,12 @@
+Account 54479 opened.	Nov 22, 2011 7:26:54 PM
+Charge of $200.00 for 	Nov 26, 2011 4:59:22 PM
+Rate of 900% applied.	Nov 26, 2011 4:59:32 PM
+Rate of 9% applied.	Nov 26, 2011 4:59:38 PM
+Payment of $1,000.00 applied.	Nov 26, 2011 5:00:03 PM
+Payment of $90.00 applied.	Nov 26, 2011 5:00:19 PM
+Rate of 100% applied.	Nov 26, 2011 5:00:26 PM
+Illegal set rate attempt.	Nov 26, 2011 5:09:42 PM
+Rate of 5% applied.	Nov 26, 2011 5:09:54 PM
+Payment of $1,050.00 applied.	Nov 26, 2011 6:50:43 PM
+Charge of $500.00 for 	Nov 26, 2011 6:50:48 PM
+Rate of 5% applied. Interest Due: $0.00	Nov 26, 2011 6:51:00 PM
